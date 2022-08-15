@@ -24,8 +24,8 @@
   - Seleções
   - Exclusões
   - Filtragrem de dados
+  
 ## Repositórios
-
 - Repositórios podem ser **classes** ou **interfaces** que definem um conjunto de métodos que serão utilizados por outras classes.
 - Principais repositórios:
   - CrudRepository
@@ -51,9 +51,8 @@ INSERT INTO produtos VALUES (1, "Café", 5); => save(Objeto)
 - Model: São entidades
 - View: Exibir a estrutura das páginas
 - Controller: Intermediário entre a Model e a View
-<br>
-![image](https://user-images.githubusercontent.com/78964459/184640785-cf4fb56a-bc76-4869-a7e6-a9a83506c817.png)
-<br>
+
+![image](https://user-images.githubusercontent.com/78964459/184684121-ad179ba7-f5df-45f5-830b-2dd84bb09119.png)
 
 ## Framework
 - Vantagens

@@ -94,7 +94,38 @@ INSERT INTO produtos VALUES (1, "Café", 5); => save(Objeto)
 ## Anotations 
 - São complementos que uma classe, um método ou atributo pode ter
 
+## Controle
+- São rotas para contrar as requisições e realizar alguma ação
 
+## API 
+
+- O que é?
+API (Application Programming Interface) ou traduzindo: Interface de Programação de Aplicativos.
+É o conjunto de padrões e rotinas de programação que permite a contrução de aplicativos e a 
+integração entre aplicações/sistemas.
+Além disso, as APIs permitem a utilização de uma funcionalidade do sistema sem entender o sistema como um todo.
+
+
+- Qual o seu funcionamento?
+Meio de comunicação entre dispositivos (computadores, tablets, smartphones, relógios, tvs...).
+
+- Exemplo de uma API.
+APIs de previsão do tempo.
+
+- Linguagens utilizadas?
+PHP, Java, C#, Python, Kotlin.... Grande maioria possui frameworks para auxiliar no desenvolvimento de APIs.
+
+- Comunicação entre linguagens.
+As APIs geralmente trabalham com arquivos em formato JSON, esse tipo de dado é possível de ser interpretado pela grande maioria das linguagens. Algumas APIs também podem utilizar textos simples ou até mesmo XML.
+
+Alguns softwares de gestão podem importar e exportar arquivos em formato JSON para que uma API consiga auxiliar na elaboração de tarefas.
+
+- Requisições.
+Há vários tipos de requisições, porém vamos nos focar nas principais:
+POST:     Cadastrar
+GET:      Selecionar
+PUT:      Alteração
+DELETE:   Excluir
 
   
   
